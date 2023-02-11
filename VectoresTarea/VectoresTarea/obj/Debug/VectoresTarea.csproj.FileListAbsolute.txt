@@ -1,0 +1,8 @@
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\VectoresTarea\VectoresTarea\bin\Debug\VectoresTarea.exe.config
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\VectoresTarea\VectoresTarea\bin\Debug\VectoresTarea.exe
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\VectoresTarea\VectoresTarea\bin\Debug\VectoresTarea.pdb
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\VectoresTarea\VectoresTarea\obj\Debug\VectoresTarea.csproj.AssemblyReference.cache
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\VectoresTarea\VectoresTarea\obj\Debug\VectoresTarea.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\VectoresTarea\VectoresTarea\obj\Debug\VectoresTarea.csproj.CoreCompileInputs.cache
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\VectoresTarea\VectoresTarea\obj\Debug\VectoresTarea.exe
+C:\Users\Fran\Documents\VISUAL STUDIO\COMUNNITY\VectoresTarea\VectoresTarea\obj\Debug\VectoresTarea.pdb
